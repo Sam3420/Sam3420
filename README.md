@@ -54,7 +54,7 @@ A stateful LangGraph agent that classifies emails by priority, intent, and deadl
 | Event | Result |
 |---|---|
 | Meta OpenEnv x Scalar School of Technologies Hackathon | 🏆 Finalist — Top 0.02% |
-| Guidewire Devtrails Hackathon | 🥈 2nd Place |
+| Guidewire Devtrails Hackathon | 🏆 Finalist |
 | Build for India Agentic AI Hackathon (Kerala Startup Mission) | 🎖️ Finalist |
 | NASA Space Apps Challenge | 🥇 Runner-Up |
 
@@ -79,12 +79,7 @@ A stateful LangGraph agent that classifies emails by priority, intent, and deadl
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sam3420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam3420&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 
