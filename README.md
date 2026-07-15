@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samridhi Singh</h1>
-<h3 align="center">Software Engineer in the making — I build AI agents, full-stack systems, and things that ship.</h3>
+<h3 align="center">Software Engineer in the making — I build AI agents, full-stack systems, and things that solves problems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samridhi–singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,7 +15,6 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech in Computer Science @ Amrita Vishwa Vidyapeetham (CGPA: 8.83)
-- 🔭 Currently building **agentic LLM workflows** as an Intern @ **CISAI**
 - 🌱 Deep-diving into **LangGraph, multi-agent systems, and fine-tuning LLMs**
 - 🏆 Finalist, **top 0.02%** of participants — Meta OpenEnv x Scalar School of Technologies Hackathon
 - ⚡ I turn ideas into systems people actually use — with **30–60% measurable efficiency gains** to show for it
@@ -87,9 +86,7 @@ A stateful LangGraph agent that classifies emails by priority, intent, and deadl
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam3420&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3420&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
 
