@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samridhi Singh</h1>
-<h3 align="center">Software Engineer in the making — I build AI agents, full-stack systems, and things that solves problems.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5DD3&height=250&section=header&text=Hi%20👋,%20I'm%20Samridhi%20Singh&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Learn-by-doing%20Software%20Engineer%20|%20AI%20Agents%20|%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<h3 align="center">Software Engineer in the making — I build AI agents, full-stack systems, and things that solve problems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samridhi–singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,7 +14,24 @@
 </p>
 
 ---
+### 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
 ### 🧠 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering @ Amrita Vishwa Vidyapeetham
@@ -59,29 +79,19 @@ A stateful LangGraph agent that classifies emails by priority, intent, and deadl
 | NASA Space Apps Challenge | 🥇 Runner-Up |
 
 ---
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-
-
-
+<table align="center">
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/Sam3420/Sam3420/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Sam3420/Sam3420/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Sam3420/Sam3420/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Sam3420/Sam3420/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Sam3420/Sam3420/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
