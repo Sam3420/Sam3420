@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in Computer Science @ Amrita Vishwa Vidyapeetham (CGPA: 8.83)
+- 🎓 B.Tech in Computer Science and Engineering @ Amrita Vishwa Vidyapeetham
 - 🌱 Deep-diving into **LangGraph, multi-agent systems, and fine-tuning LLMs**
 - 🏆 Finalist, **top 0.02%** of participants — Meta OpenEnv x Scalar School of Technologies Hackathon
 - ⚡ I turn ideas into systems people actually use — with **30–60% measurable efficiency gains** to show for it
